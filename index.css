@@ -1,0 +1,33 @@
+/* Custom Header Style */
+.custom-header {
+    background-image: linear-gradient(rgb(9, 17, 41), rgb(23, 117, 164), rgb(44, 222, 222));
+    color: white;
+  }
+  
+  /* Customize Brand Name */
+  .custom-brand {
+    color: #eae9e2 !important;
+    font-weight: bold;
+  }
+  
+  /* Main Title */
+  .custom-title {
+    color: #007bff;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Paragraph Styling */
+  .custom-text {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #0b0a0a;
+  }
+  
+  /* Footer Styling */
+  .custom-footer {
+    background-image: linear-gradient(rgb(44, 222, 222), rgb(23, 117, 164),rgb(9, 17, 41) );
+    
+
+  }
